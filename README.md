@@ -1,16 +1,29 @@
-## Hi there 👋
-
 <!--
-**jadobrova/jadobrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    ____.           .   
+   |    | ____  __ _|__ 
+   |    |/    \|  |  \  |
+/\__|    |   |  \  |  /  |
+\________|___|  /____/|__|
+            \/             
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+   [SYSTEM: ONLINE]  [USER: JADOBROVA]  [ACCESS: GRANTED]
 -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=500&color=FF2DAA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%3E+HELLO%2C+WORLD.;%3E+I+AM+JADOBROVA.;%3E+FULL-CYCLE+DEVELOPER.;%3E_SYSTEMS_%2B_AI_%2B_CLOUD" alt="Typing Animation" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jadobrova&style=for-the-badge&label=ACCESS+COUNTER&color=FF2DAA" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00E5FF?style=for-the-badge&logo=matrix&logoColor=white" />
+</p>
+
+---
+
+```diff
++  ██╗ █████╗ ██████╗  ██████╗ ██████╗ ██████╗  ██████╗ ██╗   ██╗ █████╗ ███████╗
++  ██║██╔══██╗██╔══██╗██╔═══██╗██╔══██╗██╔══██╗██╔═══██╗██║   ██║██╔══██╗██╔════╝
++  ██║███████║██████╔╝██║   ██║██████╔╝██║  ██║██║   ██║██║   ██║███████║███████╗
++  ██║██╔══██║██╔══██╗██║   ██║██╔══██╗██║  ██║██║   ██║╚██╗ ██╔╝██╔══██║╚════██║
++  ██║██║  ██║██║  ██║╚██████╔╝██████╔╝██████╔╝╚██████╔╝ ╚████╔╝ ██║  ██║███████║
++  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═════╝  ╚═════╝   ╚═══╝  ╚═╝  ╚═╝╚══════╝
